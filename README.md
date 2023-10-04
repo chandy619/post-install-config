@@ -81,10 +81,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img width="960" alt="image" src="https://github.com/chandy619/post-install-config/assets/144288806/4552c905-9244-40a7-9145-50e7535e4d1c">
+<img width="960" alt="image" src="https://github.com/chandy619/post-install-config/assets/144288806/33d2b457-5c41-4aa2-96d9-2dcb89615eef">
 </p>
 <p>
-7. Configure Help Topics: For this last section, we will add a few common help desk topics in addition to the default options provided in osTicket. Starting from the top: 'Manage' tab > 'Help Topics' tab (underneath) > click on 'Add New Help Topic' button. We'll create 4 more topics named: 'Business Critical Outage', 'Personal Computer Issues', 'Equiptment Request' and 'Password Reset'. 
+7. Configure Help Topics: For this last section, we will add a few common help desk topics in addition to the default options provided in osTicket. Starting from the top: 'Manage' tab > 'Help Topics' tab (underneath) > click on 'Add New Help Topic' button. We'll create 4 more topics named: 'Business Critical Outage', 'Personal Computer Issues', 'Equipment Request' and 'Password Reset'. 
 </p>
 <br />
 
